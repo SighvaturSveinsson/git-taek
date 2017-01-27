@@ -37,3 +37,9 @@
 	Lyklaborð
 	Snertiskjár
 ####10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+| Hlutur | Íhluti | Verð | Fæst |
+|---|---|---|---|---|
+| Kassi | Cooler Master Dominator 690 III | 19.995 | Tölvulistinn |
+|   |   |   |   |   |
+|   |   |   |   |   |

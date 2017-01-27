@@ -31,5 +31,6 @@
 	Dæmi um closed ended spurningar:
 		Hefur einhver notað tölvuna þína nýlega?
 ####8. Hvað eru jaðartæki?
+	Jaðartækin sjá um samskiptin milli þín og tölvunnar. Með þeim sendir þú gögn eða boð til tölvunnar og árangurinn kemur í ljós á skjánum eða í útprentun.
 ####9. Nefndu þrjú dæmi um inntakstæki.
 ####10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.

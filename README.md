@@ -17,6 +17,12 @@
 	Spennugjafinn þarf að vera með nógu mikið afl fyrir partana í tölvunni
 	Spennugjafinn þarf að vera með allavegana 25% auka afl ef þú ætlar að uppfæra partana í tölvunni
 ####6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+	1. Finna vandamálið
+	2. Gera kenningu um líkleg orsök vandamálsins
+	3. Prófa kenninguna til að greina orsök vandamálsins
+	4. Gera plan til að leita að lausn fyrir vandamálið og framkvæma svo lausnina
+	5. Staðfesta Full System Functionality og, ef viðeigandi, framkvæma fyrirbyggjandi viðhald.
+	6. Skrá niður vandamálið, hvað þú gerðir til að leysa vandamálið og útkomuna.
 ####7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 ####8. Hvað eru jaðartæki?
 ####9. Nefndu þrjú dæmi um inntakstæki.

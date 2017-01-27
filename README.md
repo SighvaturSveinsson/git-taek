@@ -5,6 +5,7 @@
 ####2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 	ROM stendur fyrir Read-Only Memory og geymir upplýsingar um basic operation instructions eins og að kveikja á tölvunni og hlaða upp stýrikerfniu.
 ####3. Hvað er fyrirbyggjandi viðhald? 
+	Fyrirbyggjandi viðhald er regluleg systematic skoðun, hreinsun og skipting á notuðum pörtum.
 ####4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 ####5. Hvað þarf að hafa í huga við val á spennugjöfum?
 ####6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?

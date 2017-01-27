@@ -12,6 +12,10 @@
 	Nota antistatic gólfmottur á vinnusvæðum
 	Nota antistatic úlnliðs band þegar þú ert að vinna með tölvur
 ####5. Hvað þarf að hafa í huga við val á spennugjöfum?
+	Spennugjafinn þarf að vera compatible með móðurborðinu
+	Spennugjafinn þarf að passa í kassanum
+	Spennugjafinn þarf að vera með nógu mikið afl fyrir partana í tölvunni
+	Spennugjafinn þarf að vera með allavegana 25% auka afl ef þú ætlar að uppfæra partana í tölvunni
 ####6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 ####7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 ####8. Hvað eru jaðartæki?

@@ -7,6 +7,10 @@
 ####3. Hvað er fyrirbyggjandi viðhald? 
 	Fyrirbyggjandi viðhald er regluleg systematic skoðun, hreinsun og skipting á notuðum pörtum.
 ####4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+	ESD stendur fyrir Electrostatic discharge sem er þegar rafmagn byggist upp t.d. þegar maður labbar á teppum og getur skemmt tölvubúnað
+	Geyuma alla partana í antistatic pokum until þangað til þú ert tilbúinn að nota þá
+	Nota antistatic gólfmottur á vinnusvæðum
+	Nota antistatic úlnliðs band þegar þú ert að vinna með tölvur
 ####5. Hvað þarf að hafa í huga við val á spennugjöfum?
 ####6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 ####7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.

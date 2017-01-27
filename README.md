@@ -24,6 +24,12 @@
 	5. Staðfesta Full System Functionality og, ef viðeigandi, framkvæma fyrirbyggjandi viðhald.
 	6. Skrá niður vandamálið, hvað þú gerðir til að leysa vandamálið og útkomuna.
 ####7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+	Open ended spurningar eru t.d. lýsingar, svör sem eru nokkrar setningar.
+	Closed end spurningar eru stutt svör t.d. Já/nei, tölur
+	Dæmi um open ended spurningar:
+		Lýstu hvað er að gerast á skjánum
+	Dæmi um closed ended spurningar:
+		Hefur einhver notað tölvuna þína nýlega?
 ####8. Hvað eru jaðartæki?
 ####9. Nefndu þrjú dæmi um inntakstæki.
 ####10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
